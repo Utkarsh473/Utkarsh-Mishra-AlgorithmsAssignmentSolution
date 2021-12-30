@@ -27,7 +27,7 @@ public class DisplayCount {
 				total++;
 		}
 		// print the output
-		System.out.println("Total no of companies whose stock price rose today : "+ total);
+		System.out.println("Total no of companies whose stock price declined today : "+ total);
 	}
 
 }
